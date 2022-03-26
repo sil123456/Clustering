@@ -18,5 +18,5 @@ K-means
 <br>HDBSCAN
 #### Convolution Neural Network (CNN) :
 VGG-16 
-#### visualizer:
+#### Visualizer:
 TSNE
